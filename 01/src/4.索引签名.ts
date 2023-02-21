@@ -31,7 +31,7 @@ let info: name = {
 //   next:'string'
 // } as name
 
-//第三钟索引签名
+//第三钟 索引签名
 interface nameEls {
   name: string
   nickname: string
