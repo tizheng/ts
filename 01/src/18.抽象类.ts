@@ -1,5 +1,4 @@
 export default {}
-
 abstract class  test {
   abstract name: string
   abstract show(): string
